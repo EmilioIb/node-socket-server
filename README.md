@@ -1,9 +1,10 @@
 # Rest Project + TypeScript
 
+TEMPLATE used to create proyect: https://github.com/Klerith/node-ts-express-shell
+
 Este proyecto previamente inicializado tiene todo lo necesario para trabajar con TypeScript, Express y Rest.
 
 Cada paso de su configuración ya se ha realizado previamente en el curso, por lo que solo es necesario clonar el proyecto y comenzar a trabajar.
-
 
 ## Instalación
 
@@ -11,4 +12,3 @@ Cada paso de su configuración ya se ha realizado previamente en el curso, por l
 2. Ejecutar `npm install` para instalar las dependencias
 3. En caso de necesitar base de datos, configurar el docker-compose.yml y ejecutar `docker-compose up -d` para levantar los servicios deseados.
 4. Ejecutar `npm run dev` para levantar el proyecto en modo desarrollo
-
